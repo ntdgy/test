@@ -1,0 +1,7 @@
+!/cpp_project/*
+*.zip
+/build
+/opencv-4.5.5
+/x-ui
+Makefile
+
