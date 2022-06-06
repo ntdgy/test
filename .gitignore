@@ -4,4 +4,6 @@
 /opencv-4.5.5
 /x-ui
 Makefile
+opencv.zip
+*.py
 
